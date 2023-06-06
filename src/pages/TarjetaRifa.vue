@@ -1,6 +1,6 @@
 <template>
   <q-page padding>
-    <h1>Hola Rifa</h1>
+    <h1>Rifa DGI</h1>
     <div class="q-pa-md" style="max-width: 400px">
       <q-form class="q-gutter-md">
         <q-input
